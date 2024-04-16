@@ -6,6 +6,9 @@ A simple TicTacToe game built using React.
 
 This project is a basic implementation of the TicTacToe game. It allows two players to take turns marking the spaces in a 3x3 grid with 'X' or 'O'. The game will declare a winner when one player has three marks in a horizontal, vertical, or diagonal row. If no player achieves this and the grid is filled, the game ends in a draw.
 
+![image](https://github.com/JeremiahRanen7/tictactoe/assets/141173239/52deaa65-6e99-4014-aa75-3f57c0c4380f)
+
+
 ## Features
 
 - **Interactive Board**: Click on squares to place 'X' or 'O'.
